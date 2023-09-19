@@ -1,2 +1,2 @@
-# django-rag
+# django-ragtime
 Where's that tiger!
